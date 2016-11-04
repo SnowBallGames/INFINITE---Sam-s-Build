@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../mapTestBuild/Assets/Assets/scripts/TreeMaybe.cs">
+    <Files>
+      <File FileName="../mapTestBuild/Assets/Assets/scripts/TreeMaybe.cs" Line="34" Column="34" />
+      <File FileName="../mapTestBuild/Assets/Assets/scripts/treeScript.cs" Line="89" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
